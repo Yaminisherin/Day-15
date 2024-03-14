@@ -1,0 +1,35 @@
+
+
+body {
+    background-color: black;
+    color: white;
+  }
+  
+  #form-layout {
+    margin-top: 20px;
+    margin-left: 50px;
+  }
+  
+  #description {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .gender {
+    display: inline-block;
+    margin: 3px;
+  }
+  
+  .buttonstyle {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+  }
+  
+  .innerbutton {
+    margin: 5px;
+  }
+  
+  #table-styles{
+    color:white !important;
+  }
+  
