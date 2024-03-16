@@ -1,0 +1,26 @@
+body {
+    background-color:#00FEBE;
+    color: rgb(163, 141, 141);
+  }
+  
+  #count-down {
+    position: relative;
+    top: 3cm;
+    left: 14cm;
+    padding-top: 2cm;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    border: 4px solid rgba(27, 6, 6, 0.925);
+    border-radius: 50%;
+    height: 3cm;
+    width: 5cm;
+  }
+  
+  #result {
+    position: relative;
+    top: 4cm;
+    left: 11cm;
+    font-size: xx-large;
+    font-weight: bolder;
+  }
