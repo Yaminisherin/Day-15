@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-    color: white;
+    background-color:#00FEBE;
+    color: rgb(163, 141, 141);
   }
   
   #count-down {
@@ -11,7 +11,7 @@ body {
     text-align: center;
     font-size: xx-large;
     font-weight: bolder;
-    border: 4px solid whitesmoke;
+    border: 4px solid rgba(27, 6, 6, 0.925);
     border-radius: 50%;
     height: 3cm;
     width: 5cm;
